@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EventsCollector", "EventsCollector\EventsCollector.vcxproj", "{B08B4AB9-923E-4BEA-8669-45B22F6F227B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestLauncher", "TestLauncher\TestLauncher.vcxproj", "{944382F9-D7D3-48B0-9F03-D35B17E6C420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B08B4AB9-923E-4BEA-8669-45B22F6F227B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B08B4AB9-923E-4BEA-8669-45B22F6F227B}.Debug|Win32.Build.0 = Debug|Win32
+		{B08B4AB9-923E-4BEA-8669-45B22F6F227B}.Release|Win32.ActiveCfg = Release|Win32
+		{B08B4AB9-923E-4BEA-8669-45B22F6F227B}.Release|Win32.Build.0 = Release|Win32
+		{944382F9-D7D3-48B0-9F03-D35B17E6C420}.Debug|Win32.ActiveCfg = Debug|Win32
+		{944382F9-D7D3-48B0-9F03-D35B17E6C420}.Debug|Win32.Build.0 = Debug|Win32
+		{944382F9-D7D3-48B0-9F03-D35B17E6C420}.Release|Win32.ActiveCfg = Release|Win32
+		{944382F9-D7D3-48B0-9F03-D35B17E6C420}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

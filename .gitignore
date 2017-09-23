@@ -1,5 +1,5 @@
 Debug
-.sdf
-.suo
-.log
-.opensdf
+*.sdf
+*.suo
+*.log
+*.opensdf
